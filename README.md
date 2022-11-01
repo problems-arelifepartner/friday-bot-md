@@ -12,7 +12,7 @@
 
 ### Setup
 
-1. Click [SCAN](https://replit.com/@pe/PEPE-SIR-Qr-code?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+1. Click [SCAN](https://replit.com/@problems-arelifepartner/friday-bot-md-Qr-code?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 2. You will get a session id in whatsapp, copy id only.
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Click [FORK](https://github.com/lyfe00011/whatsapp-bot-md/fork)
